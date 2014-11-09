@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
     <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>SurBitcoin – El primer mercado de bitcoin de Venezuela.</title>
-        <description>SurBitcoin – El primer mercado de bitcoin de Venezuela.</description>
+        <title></title>
+        <description></description>
         <link>https://surbitcoin.github.io/exchange/en_US/</link>
         <atom:link href="https://surbitcoin.github.io/exchange/en_US/feed.xml" rel="self" type="application/rss+xml" />
 
