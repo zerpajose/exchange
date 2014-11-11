@@ -39,6 +39,41 @@ categories: en_US blog&lt;/p&gt;
         </item>
         
         <item>
+            <title>Hours of operation</title>
+            <description>&lt;p&gt;Trading: 24 hours / 7 days
+Helpdesk: Monday to Friday 9 AM - 6 PM (GMT -5)&lt;/p&gt;
+</description>
+            <pubDate>Thu, 06 Nov 2014 19:29:00 -0500</pubDate>
+            <link>//localhost:4000/exchange/en_US/post/faq-hours-of-operation/</link>
+            <guid isPermaLink="true">//localhost:4000/exchange/en_US/post/faq-hours-of-operation/</guid>
+        </item>
+        
+        <item>
+            <title>Why are the user names shown in the order book?</title>
+            <description>&lt;p&gt;We assign a random name for every single account. The name looks like something like this:  Rhino_899009&lt;/p&gt;
+
+&lt;p&gt;So, instead of publishing the actual name of the user, we are publishing a random name.&lt;/p&gt;
+
+&lt;p&gt;This protects the user’s privacy as long as he doesn’t reveal the link between his real name and the randomly generated name. It is the user’s responsibility to protect his own privacy.&lt;/p&gt;
+
+&lt;p&gt;Why are we not hiding all the information, including the random name?&lt;/p&gt;
+
+&lt;p&gt;There are a lot of reasons behind this. I will name the most important:&lt;/p&gt;
+
+&lt;p&gt;1 - This avoids market manipulations, like FrontRunning, PumpAndDump, and other manipulations. You can try, but people would catch you instantly and would not follow the manipulators.  Essentially, the market manipulators would lose their money because people would be able to catch the manipulation very easily.&lt;/p&gt;
+
+&lt;p&gt;2 - Help to build reputation, remember, in case of a government BAN on bitcoins, we will turn surbitcoin into a P2P market, therefore, reputation will be extremely important.&lt;/p&gt;
+
+&lt;p&gt;3 - It allows users to audit the “exchange operator”. This will help SurBitcoin operators to prove its solvency to the public without a need of an auditor who can be easily bought.&lt;/p&gt;
+
+&lt;p&gt;I understand that most of the exchanges today don’t publish this, that is why we see a lot of market manipulations out there, and also a lot of scammers who just want to rob bitcoins from their customers (I am not talking about the big exchanges, I am talking about a lot of small bitcoin exchanges that already closed their doors because they claimed they were hacked)&lt;/p&gt;
+</description>
+            <pubDate>Thu, 06 Nov 2014 19:28:00 -0500</pubDate>
+            <link>//localhost:4000/exchange/en_US/post/faq-why-are-the-user-names-shown-in-the-order-book/</link>
+            <guid isPermaLink="true">//localhost:4000/exchange/en_US/post/faq-why-are-the-user-names-shown-in-the-order-book/</guid>
+        </item>
+        
+        <item>
             <title>Where is your bank account information?</title>
             <description>&lt;p&gt;In order to be able to deposit funds into the exchange, the operator team has to verify your bank account. Once that process has been made you can deposit your funds.&lt;/p&gt;
 
@@ -92,24 +127,6 @@ categories: en_US blog&lt;/p&gt;
             <pubDate>Thu, 06 Nov 2014 19:19:00 -0500</pubDate>
             <link>//localhost:4000/exchange/en_US/post/faq-what-is-the-instant-deposit-mode/</link>
             <guid isPermaLink="true">//localhost:4000/exchange/en_US/post/faq-what-is-the-instant-deposit-mode/</guid>
-        </item>
-        
-        <item>
-            <title>How long does a BTC deposit take?</title>
-            <description>&lt;p&gt;As long as the blockchain network takes to confirm the transaction. Usually no longer than 10 minutes.  For deposits higher than 2 BTC, we require 3 confirmations that can take up to 30 minutes. And for amounts higher than 10 BTC, we require of 6 confirmations that can take up to 60 minutes.&lt;/p&gt;
-</description>
-            <pubDate>Thu, 06 Nov 2014 19:18:00 -0500</pubDate>
-            <link>//localhost:4000/exchange/en_US/post/faq-how-long-does-a-BTC-deposit-take/</link>
-            <guid isPermaLink="true">//localhost:4000/exchange/en_US/post/faq-how-long-does-a-BTC-deposit-take/</guid>
-        </item>
-        
-        <item>
-            <title>How long does a FIAT deposit confirmation take?</title>
-            <description>&lt;p&gt;If you perform the deposit from an account of the same bank used by the exchange the confirmation will be made within 24 hours. If you do the deposit from a different bank in the country/region, the confirmation can take as long as 48 hours.&lt;/p&gt;
-</description>
-            <pubDate>Thu, 06 Nov 2014 19:17:00 -0500</pubDate>
-            <link>//localhost:4000/exchange/en_US/post/faq-how-long-does-a-FIAT-deposit-confirmation-take/</link>
-            <guid isPermaLink="true">//localhost:4000/exchange/en_US/post/faq-how-long-does-a-FIAT-deposit-confirmation-take/</guid>
         </item>
         
 
