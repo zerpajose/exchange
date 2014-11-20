@@ -32,8 +32,8 @@ views:
 
   start:
     username: "Nombre de usuario:"
-    password: "Contraseña"
-    login: Ingressar
+    password: "Contraseña:"
+    login: Ingresar
     signup: Registrarse
 
   faq:
@@ -43,7 +43,7 @@ views:
   signup:
     title: Registrarse
     already_registered:  ¿Ya estás registrado?
-    login: Ingressar
+    login: Ingresar
     username: Nombre de usuario
     email: Email
     email_placeholder: "ej.: jose@email.com"
@@ -52,9 +52,9 @@ views:
     confirm_password: Confirme su contraseña
     country: Pais
     state: Estado o Provincia
-    broker: Corridor
-    terms_of_service: Terminos del servicio
-    i_agree_with_terms_of_service:  Estoy de acuerdo con Terminos de servicio
+    broker: Corredor
+    terms_of_service: Terminos de servicio
+    i_agree_with_terms_of_service:  Estoy de acuerdo con los Terminos de servicio
     signup_button_label: Registrarse
 
   signin:
@@ -64,7 +64,7 @@ views:
     username: Nombre de usuario
     password: Contraseña
     forgot_your_password: Olvidaste tu contraseña?
-    login_button_label: Ingressar
+    login_button_label: Ingresar
 
   forgot_password:
     title: Recuperar contraseña
@@ -86,7 +86,7 @@ views:
       title: Activar o desactivar verificacion de dos pasos
       key: Key
       authentication_code: Código de verificación
-      authentication_code_title: Cógico generado por Google Authenticatior
+      authentication_code_title: Cógico generado por Google Authenticator
       authentication_code_placeholder: Ex. 555555
       enable: Activar
       disable: Desactivar
@@ -102,19 +102,19 @@ views:
 
   account_overview:
     title:  Cuenta Detalle
-    set_user_fees_button_label: Definir tarifas de lo usuario
+    set_user_fees_button_label: Definir tarifas del usuario
 
   withdraw:
     title: Retiros
 
   withdraw_requests:
-    title: Solicitudes de retiros
+    title: Solicitudes de retiro
 
   deposit:
     title: Depósitos
 
   deposit_requests:
-    title: Solicitudes de depósitos
+    title: Solicitudes de depósito
 
   ledger:
     title: Libro de cuentas
@@ -135,7 +135,7 @@ views:
     my_broker: Sobre el exchange
     trading: Comprar o Vender
     offerbook: Libro de órdenes
-    ledger: Livro de cuentas
+    ledger: Libro de cuentas
     customers: Mis clientes
     deposit_requests: Depósitos ( clientes )
     withdraw_requests: Retiros ( clientes )
