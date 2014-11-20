@@ -9,8 +9,8 @@
     <!-- ../closure-library/closure/goog/date/relative.js -->
     <translation id="255903265337952585">Hoy</translation>
     <translation id="353304103865310482">Ayer</translation>
-    <translation id="8418664850843292267">hace <ph name="num"/> minute</translation>
-    <translation id="4542333509153189824">hace <ph name="num"/> minutes</translation>
+    <translation id="8418664850843292267">hace <ph name="num"/> minuto</translation>
+    <translation id="4542333509153189824">hace <ph name="num"/> minutos</translation>
     <translation id="5521867011454282127">en <ph name="num"/> minuto</translation>
     <translation id="7703706792267614625">en <ph name="num"/> minutos</translation>
     <translation id="3437437874841265174">hace <ph name="num"/> hora</translation>
@@ -43,7 +43,7 @@
     <!-- ../closure-library/closure/goog/ui/dragdropdetector.js -->
     <translation id="3091743712207379007">No es posible arrastrar y soltar archivos de imágenes en este momento.
                  Por favor, arrastrar una imagen desde el navegador web</translation>
-    <translation id="1682009755735913490">La imagen que está tratando de arrastrar ha sido bloqueado por el sitio de alojamiento.</translation>
+    <translation id="1682009755735913490">La imagen que está tratando de arrastrar ha sido bloqueada por el sitio de alojamiento.</translation>
 
     <!-- ../closure-library/closure/goog/ui/prompt.js -->
     <translation id="6085967011846617710">OK</translation>
@@ -60,12 +60,12 @@
 
     <!-- ../bitex/api/bitex.js -->
     <translation id="4224170944509942512">Error</translation>
-    <translation id="4222825747440240875">No está coectado al servidor</translation>
-    <translation id="9117096243216875943">Excepcion</translation>
+    <translation id="4222825747440240875">No está conectado al servidor</translation>
+    <translation id="9117096243216875943">Excepción</translation>
 
     <!-- ../bitex/app/blinktrade.js -->
     <translation id="3752105577441549065">Contraseña cambiada!</translation>
-    <translation id="7401795103172520504">Success</translation>
+    <translation id="7401795103172520504">Exito!</translation>
     <translation id="478409038932398772"><ph name="c"/> es obligatorio </translation>
     <translation id="3379403690216515090"><ph name="c"/> la dirección de bitcoin no es valida</translation>
     <translation id="1719443865812389312">Código de confirmación inválido!</translation>
@@ -97,7 +97,7 @@
     <translation id="1585949643466364093">VENDER</translation>
     <translation id="2663523040351663387"><ph name="side"/> <ph name="amount"/> <ph name="symbol"/> @ <ph name="price"/></translation>
     <translation id="3509294057647878073">Cancelando orden...</translation>
-    <translation id="8788714640455990971">Submission <ph name="submissionid"/></translation>
+    <translation id="8788714640455990971">Propuesta <ph name="submissionid"/></translation>
     <translation id="2663307622590695329">Activar <ph name="currency"/> depósito instantáneo?</translation>
     <translation id="3160671120235097661"><ph name="currency"/> depositar</translation>
     <translation id="4030996601042264112"><ph name="currency"/> retirar</translation>
@@ -114,7 +114,7 @@
     <translation id="9083475110158074150">Aplique para ser un corredor</translation>
     <translation id="5620345469453784320">Notifícame cuando un nuevo corredor llegue a mi región</translation>
     <translation id="4720573603271120453">Error</translation>
-    <translation id="3199807622499658204">Dectectado con la conexión.</translation>
+    <translation id="3199807622499658204">Detectado con la conexión.</translation>
     <translation id="890527683253359951">Mensaje del servidor:</translation>
     <translation id="4580764630041215479">Error</translation>
 
@@ -139,13 +139,13 @@
     <!-- ../bitex/templates/templates.soy.js -->
     <translation id="4112774560296927039">Nombre de usuario:</translation>
     <translation id="2912732596065108180">Error de código</translation>
-    <translation id="6907261760401925072">Descraga</translation>
+    <translation id="6907261760401925072">Descarga</translation>
     <translation id="4296220550971285066">Número de control</translation>
     <translation id="4472705901299178069">Monto pagado</translation>
     <translation id="6679668639118391823">Comisiones:</translation>
     <translation id="9189368320862307296">Monto neto</translation>
     <translation id="5062264377258128813">Mi corredor</translation>
-    <translation id="7501496901609409044">Terminos del servicio</translation>
+    <translation id="7501496901609409044">Terminos de servicio</translation>
     <translation id="1878595583345933413">Teléfono</translation>
     <translation id="7967165623757583485">P:</translation>
     <translation id="8065739383860680078">Mercados</translation>
@@ -177,15 +177,15 @@
     <translation id="5177500745203563633">Cartera inválida</translation>
     <translation id="6545296350987670913">Cuenta Bancaria inválida</translation>
     <translation id="8638413112185124959">El monto excede su limite de retiro</translation>
-    <translation id="4764323592680481021">User has deposits that are not yet confirmed</translation>
+    <translation id="4764323592680481021">El usuario tiene depósitos que aún no se confirman</translation>
     <translation id="7011525327340223100">Código de verificación de Google:</translation>
     <translation id="6381295911585763595">Código de verificación de Google</translation>
     <translation id="707556265285906962">eg. 555555</translation>
     <translation id="8174821602628092381">Acabamos de enviar el codigo de confirmacion a su correo electronico</translation>
-    <translation id="5002588433270413301">Codigo de confirmacion e</translation>
+    <translation id="5002588433270413301">Codigo de confirmacion </translation>
     <translation id="4772336795492447708">Esta es una medida de seguridad para mejorar la seguridad de su cuenta</translation>
     <translation id="1082397015730658819">Comisión de compra %</translation>
-    <translation id="2327127560558817887">Comisión de venta%</translation>
+    <translation id="2327127560558817887">Comisión de venta %</translation>
     <translation id="8476044854846017210">Su cuenta</translation>
     <translation id="7106257371625901544">Depósitos no confirmados de sus cuentas confirmadas</translation>
     <translation id="6234092191154646389">Disponible <ph name="currency"/></translation>
@@ -215,9 +215,9 @@
     <translation id="9189368320862307296">Monto neto</translation>
     <translation id="6679668639118391823">Comisiones:</translation>
     <translation id="9189368320862307296">Monto neto</translation>
-    <translation id="1965130595547264267">Amount</translation>
-    <translation id="5109746820349075418"> Maximum: <ph name="xxx"/> per day.</translation>
-    <translation id="2743890661994318321"> Minimum: <ph name="xxx"/> per transaction.</translation>
+    <translation id="1965130595547264267">Monto</translation>
+    <translation id="5109746820349075418"> Maximo: <ph name="xxx"/> por dia.</translation>
+    <translation id="2743890661994318321"> Minimo: <ph name="xxx"/> por transaccion.</translation>
     <translation id="4707897436830248282">Tasa de compra</translation>
     <translation id="6668532937181281406">Tasa de venta</translation>
     <translation id="7723325992076527303">Disponible <ph name="code"/></translation>
@@ -297,7 +297,7 @@
     <translation id="7174797153832618058">No</translation>
     <translation id="2250683114899504658">Acciones</translation>
     <translation id="9029307460728334893">Detalles</translation>
-    <translation id="8768222037933950343">Clienstes</translation>
+    <translation id="8768222037933950343">Clientes</translation>
     <translation id="932735387409563024">Nombre de usuario y correo electrónico...</translation>
 
     <!-- ../bitex/ui/deposit_list.js -->
@@ -343,7 +343,7 @@
     <translation id="4512252037284577414">Comisión por depósito</translation>
     <translation id="6185796191548546022">Comisión por retiro</translation>
     <translation id="3612004234606795475">Transacción</translation>
-    <translation id="1850588502751860198">Commissión por transacción</translation>
+    <translation id="1850588502751860198">Comisión por transacción</translation>
     <translation id="4222722447990676665">Bono</translation>
     <translation id="2448291262120463177">Libro de cuentas</translation>
     <translation id="1383812550631336118">Buscar...</translation>
@@ -401,7 +401,7 @@
    <!-- ../bitex/ui/simple_order_entry.soy.js -->
     <translation id="1197921766103282777">para un total de</translation>
     <translation id="2999468557463542173">Tasa</translation>
-    <translation id="1784908204503101322">Precio per <ph name="cryptocurrencydescription"/> :</translation>
+    <translation id="1784908204503101322">Precio por <ph name="cryptocurrencydescription"/> :</translation>
     <translation id="4412003609716883584">Quiero comprar</translation>
     <translation id="2256231961966604601">Quiero vender</translation>
     <translation id="8282725871353943578">COMPRAR</translation>
@@ -431,17 +431,17 @@
     <translation id="3872080233688046838">Monto</translation>
     <translation id="7559187503695037826">Método</translation>
     <translation id="1996999318694812051">Fecha/Hora</translation>
-    <translation id="5420114004277219087">Actions</translation>
+    <translation id="5420114004277219087">Acciones</translation>
     <translation id="2533475876080710712">Detalles</translation>
     <translation id="8594999945495338034">Nombre de usuario</translation>
-    <translation id="7362527968218162733">Fondos insufiecientes</translation>
+    <translation id="7362527968218162733">Fondos insuficientes</translation>
     <translation id="4967771909416437042">Cuenta sin verificar</translation>
     <translation id="8783883206505251684">Sospecha de fraude</translation>
     <translation id="3237942001375401836">Retiro a auna cuenta distinta a la suya</translation>
     <translation id="7736827015127625334">Cartera inválida</translation>
     <translation id="7456622820695033049">Cuenta Bancaria inválida</translation>
     <translation id="4196089424197808429">El monto excede de su límite de retiro diario</translation>
-    <translation id="3126221087311713945">Broker receipt</translation>
+    <translation id="3126221087311713945">Comprobante del corredor</translation>
     <translation id="5554907353742462076">ver</translation>
     <translation id="7508953949292168580">Identificador de transacción</translation>
     <translation id="8392854148832160165">Cartera</translation>
@@ -451,7 +451,7 @@
     <translation id="8058666144467999863">Nombre del titular de la cuenta</translation>
     <translation id="4980876197956173096">Nombre del banco</translation>
     <translation id="5485520759316966153">Numero de banco</translation>
-    <translation id="4006033223747178362">CPF or CNPJ</translation>
+    <translation id="4006033223747178362">CPF ó CNPJ</translation>
     <translation id="2925917931628731211">Cuenta de sucursal</translation>
     <translation id="6425824923643215371">Número de ruta</translation>
     <translation id="3869020421199764518">SWIFT del banco</translation>
@@ -470,7 +470,7 @@
     <translation id="2753513039544070249">Nombre del método</translation>
     <translation id="4858920379799770238">Descripción</translation>
     <translation id="289892879088289479">Descargo de responsabilidad</translation>
-    <translation id="8540732749264498117">comisión</translation>
+    <translation id="8540732749264498117">Comisión</translation>
     <translation id="7943264533846198777">Campos personalizados</translation>
     <translation id="5273095324434944450">Lado</translation>
     <translation id="239483712453182687">Nombre</translation>
@@ -481,7 +481,7 @@
     <translation id="2268065814336572889">Valor</translation>
     <translation id="1995910970157127627">Acciones</translation>
     <translation id="3366375422229336602">Agregar campo</translation>
-    <translation id="7719333727186600975">Limits</translation>
+    <translation id="7719333727186600975">Limites</translation>
     <translation id="2945981672696300315">Nivel de Verificación</translation>
     <translation id="7470182973282136325">Habilitado</translation>
     <translation id="6796213672162101710">Min</translation>
